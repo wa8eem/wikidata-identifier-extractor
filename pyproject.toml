@@ -10,10 +10,10 @@ readme = "README.md"
 requires-python = ">=3.7"
 license = {text = "MIT"}
 authors = [
-    {name = "Waseem", email = "your.email@example.com"}
+    {name = "Muhammad Waseem", email = "Muhammadwaseem220@gmail.com"}
 ]
 maintainers = [
-    {name = "Waseem", email = "your.email@example.com"}
+    {name = "Muhammad Waseem", email = "Muhammadwaseem220@gmail.com"}
 ]
 keywords = [
     "wikidata",
