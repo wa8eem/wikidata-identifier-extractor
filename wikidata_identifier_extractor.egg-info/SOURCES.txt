@@ -1,0 +1,14 @@
+CHANGELOG.md
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+docs/GUIDE.md
+wikidata_identifier_extractor/__init__.py
+wikidata_identifier_extractor/extractor.py
+wikidata_identifier_extractor.egg-info/PKG-INFO
+wikidata_identifier_extractor.egg-info/SOURCES.txt
+wikidata_identifier_extractor.egg-info/dependency_links.txt
+wikidata_identifier_extractor.egg-info/requires.txt
+wikidata_identifier_extractor.egg-info/top_level.txt
