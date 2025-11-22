@@ -4,7 +4,7 @@
 
 ```bash
 # 1. Navigate to package directory
-cd /Users/waseemmac/Documents/traktflix/wikidata-identifier-extractor
+cd /Users/waseemmac/Documents/wikidata-identifier-extractor
 
 # 2. Update your email in pyproject.toml (IMPORTANT!)
 # Edit: authors email and maintainers email
@@ -63,10 +63,10 @@ Edit `pyproject.toml` and replace with your actual email:
 
 ```toml
 authors = [
-    {name = "Waseem", email = "YOUR_EMAIL@example.com"}  # ← Change this
+    {name = "Muhammad Waseem", email = "muhammadwaseem220@gmail.com"}  
 ]
 maintainers = [
-    {name = "Waseem", email = "YOUR_EMAIL@example.com"}  # ← Change this
+    {name = "Muhammad Waseem", email = "muhammadwaseem220@gmail.com"} 
 ]
 ```
 

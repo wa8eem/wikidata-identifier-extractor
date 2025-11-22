@@ -31,7 +31,7 @@ pip install --upgrade build twine
 Ensure all files are ready:
 
 ```bash
-cd /Users/waseemmac/Documents/traktflix/wikidata-identifier-extractor
+cd /Users/waseemmac/Documents/wikidata-identifier-extractor
 
 # Verify package structure
 ls -la
@@ -77,10 +77,10 @@ Edit `pyproject.toml` and replace the email addresses:
 
 ```toml
 authors = [
-    {name = "Waseem", email = "your.actual.email@example.com"}
+    {name = "Muhammad Waseem", email = "muhammadwaseem220@gmail.com"}
 ]
 maintainers = [
-    {name = "Waseem", email = "your.actual.email@example.com"}
+    {name = "Muhammad Waseem", email = "muhammadwaseem220@gmail.com"}
 ]
 ```
 

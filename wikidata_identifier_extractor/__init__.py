@@ -6,7 +6,7 @@ Retrieve IMDb, Trakt, TMDB, Rotten Tomatoes IDs and more for movies, TV shows, a
 """
 
 __version__ = "0.1.0"
-__author__ = "Waseem"
+__author__ = "Muhammad Waseem"
 __license__ = "MIT"
 
 from .extractor import WikidataIdentifierExtractor, WikidataItem
